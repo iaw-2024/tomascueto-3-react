@@ -1,0 +1,31 @@
+[
+    {
+      "nombre": "Escape from Tarkov",
+      "genero": "Shooter táctico",
+      "duracion": "Variable",
+      "empresa": "Battlestate Games",
+      "imagen":"https://assetsio.gnwcdn.com/Escape-from-Tarkov-header.jpg?width=690&quality=75&format=jpg&auto=webp"
+    },
+    {
+      "nombre": "EA Sports FC 24",
+      "genero": "Deportes",
+      "duracion": "Variable",
+      "empresa": "Electronic Arts",
+      "imagen":"https://media.contentapi.ea.com/content/dam/ea/fc/common/fc-franchise-feature-image-16x9.jpg.adapt.crop191x100.1200w.jpg"
+    },
+    {
+      "nombre": "Grand Theft Auto IV",
+      "genero": "Acción/Aventura",
+      "duracion": "Variable",
+      "empresa": "Rockstar Games",
+      "imagen":"https://media.vandal.net/i/1280x720/11-2021/2021111011365954_1.jpg.webp"
+    },
+    {
+      "nombre": "Counter-Strike 1.6",
+      "genero": "Shooter en primera persona",
+      "duracion": "Variable",
+      "empresa": "Valve Corporation",
+      "imagen":"https://i0.wp.com/www.ardilu.com/wp-content/uploads/2023/10/counter-strike-1.6_original.webp?ssl=1"
+    }
+  ]
+  
