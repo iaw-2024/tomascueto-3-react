@@ -4,7 +4,7 @@ const path = require('path'); // Módulo para trabajar con rutas de archivos
 const fs = require('fs'); // Módulo para trabajar con los archivos en sí.
 
 //Configuración para correr en Vercel
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT;
 
 app.get('/json', async (req, res) => {
     const pathArchivoJSON = path.join(__dirname,'datos.json');
